@@ -1,0 +1,4 @@
+baseURL = 'https://replaylab.github.io/'
+languageCode = 'es-us'
+title = 'Replay Critical Lab - Sitio en construcción'
+theme = 'qubt'

@@ -1,0 +1,27 @@
+############################
+## Author
+############################
+
+author:
+  name: "Replay Critical Lab"
+  image: logo.png
+  greeting: "Laboratorio de juego crítico 🎲"
+  #icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/ReplayLab
+  - facebook: https://facebook.com/me
+ 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Qubt Theme"
+description: "Demo site build with Qubt & Hugo"
+# images:
+  # - thumbnail.jpeg
